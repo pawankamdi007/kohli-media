@@ -1,0 +1,92 @@
+body{
+    padding:0xp;
+    margin: 0px;
+   
+}
+
+nav ul li a{
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: none;
+    line-height: 1.3em;
+    font-family:"sans-serif";
+    text-align: justify;
+}
+#about p{
+    text-align: left;
+
+}
+
+#exploreService
+{
+    background-color: rgb(126, 119, 119);
+    padding:20px;
+    font-family: "sans-serif";
+}
+#exploreService h3
+{
+    font-family: 'Merriweather', serif;
+}
+
+#exploreService p{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#exploreService ul{
+    list-style-type: disc;
+   
+}
+#exploreService li{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+   
+}
+.jumbotron{
+   
+    background-color: rgba(136, 54, 54, 0.911);
+ 
+}
+
+#banner{
+    background-color: rgb(69, 70, 68);
+}
+.carousel-item{
+height:91vh;
+width: 100%;
+margin:0px;
+padding: 0px;
+}
+.carousel-item img{
+    min-height:100vh;
+    width:100%;
+    image-resolution: content;
+}
+
+#aboutus .card{
+    height:430px;
+    box-shadow: 2px 3px 15px 1px gray;
+}
+#aboutus .card hr{
+    border:1px solid rgb(91, 230, 91);
+}
+#aboutus .card li{
+    line-height:30px;
+}
+    
+footer{
+    background-color: rgb(20, 19, 19);
+    color: rgb(195, 207, 195);
+    padding:20px;
+}
+footer img{
+    background-color: green;
+}
+footer hr{
+    border:1px solid white;
+}
+footer .family li {
+list-style-type: none;
+}
