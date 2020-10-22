@@ -3,7 +3,9 @@ body{
     margin: 0px;
    
 }
-
+.navbar a{
+    color:rgb(112, 34, 34);
+}
 nav ul li a{
     font-size: 20px;
 }
