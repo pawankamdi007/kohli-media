@@ -1,7 +1,7 @@
 body{
-    padding:58px 0px 0px 0px;
+    padding:0xp;
     margin: 0px;
-   
+    z-index: 0;
 }
 
 .navbar a{
@@ -17,7 +17,6 @@ ul{
     font-family:"sans-serif";
     text-align: justify;
 }
-
 #about p{
     text-align: left;
 
@@ -85,7 +84,9 @@ footer{
     color: rgb(195, 207, 195);
     padding:20px;
 }
-
+footer img{
+    background-color: green;
+}
 footer hr{
     border:1px solid white;
 }
