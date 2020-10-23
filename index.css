@@ -1,7 +1,7 @@
 body{
-    padding:0xp;
+    padding:55px 0px 0px 0px;
     margin: 0px;
-    z-index: 0;
+    
 }
 
 .navbar a{
@@ -84,9 +84,7 @@ footer{
     color: rgb(195, 207, 195);
     padding:20px;
 }
-footer img{
-    background-color: green;
-}
+
 footer hr{
     border:1px solid white;
 }
