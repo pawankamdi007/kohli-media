@@ -1,7 +1,7 @@
 body{
-    padding:0xp;
+    padding:58px 0px 0px 0px;
     margin: 0px;
-    z-index: 0;
+   
 }
 
 .navbar a{
@@ -17,6 +17,7 @@ ul{
     font-family:"sans-serif";
     text-align: justify;
 }
+
 #about p{
     text-align: left;
 
