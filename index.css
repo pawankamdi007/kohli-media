@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     padding:55px 0px 0px 0px;
     margin: 0px;
@@ -104,4 +107,10 @@ font-size:18px;
 .ks a{
 text-transform: none !important;
 }
+.scrollbtn{
+    position: absolute;
+    bottom:0;
+    right:0;
+    outline: none;
 
+}
